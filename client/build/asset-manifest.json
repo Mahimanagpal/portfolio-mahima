@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03b3adfd.css",
+    "main.js": "/static/js/main.f5794ba7.js",
+    "static/js/453.46dc3e92.chunk.js": "/static/js/453.46dc3e92.chunk.js",
+    "static/media/ecommerce.png": "/static/media/ecommerce.f53a85f0e45b0f63eb5c.png",
+    "static/media/pgfiner.png": "/static/media/pgfiner.6e8aabf94273fe0e5525.png",
+    "static/media/contactus.jpg": "/static/media/contactus.e9616bd86e72f6754801.jpg",
+    "static/media/dashboard.png": "/static/media/dashboard.2367333ea07250c4c1bc.png",
+    "static/media/profile pic.jpg": "/static/media/profile pic.96085c4203c77818ba05.jpg",
+    "static/media/Mahima Nagpal resume.pdf": "/static/media/Mahima Nagpal resume.3c90f14ec2eab798fa31.pdf",
+    "static/media/room.png": "/static/media/room.ad41ea5059b3d1afe7e2.png",
+    "index.html": "/index.html",
+    "main.03b3adfd.css.map": "/static/css/main.03b3adfd.css.map",
+    "main.f5794ba7.js.map": "/static/js/main.f5794ba7.js.map",
+    "453.46dc3e92.chunk.js.map": "/static/js/453.46dc3e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03b3adfd.css",
+    "static/js/main.f5794ba7.js"
+  ]
+}
